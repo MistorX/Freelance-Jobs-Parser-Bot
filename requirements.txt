@@ -1,5 +1,5 @@
 pyTelegramBotAPI
 requests
 selenium
-rapidfuzz
 python-dotenv
+tzdata
