@@ -1,6 +1,6 @@
 # Freelance Jobs Parser Bot
 
-Telegram-бот для поиска заказов по ключевым словам в описании. Бот парсит площадки [Kwork](https://kwork.ru/projects) и [YouDo](https://youdo.com/tasks-all-opened-all) и присылает результаты в чат.
+Telegram-бот для поиска заказов по ключевым словам в описании. Бот парсит площадки [Kwork](https://kwork.ru/projects) и [YouDo](https://youdo.com/tasks-all-opened-all) и присылает результаты в чат. Воспользоваться ботом можно тут -> https://t.me/find_nice_work_bot
 
 ## Возможности
 
